@@ -1,6 +1,27 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,500;0,600;1,400;1,500;1,600;1,700;1,800&display=swap');
 
+.row {
+    display: flex;
+    line-height: 1.68;
+  }
+
+.column {
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  
+  .left {
+    /*     background: tomato; */
+    height: 300px;
+  }
+  
+  .right {
+    /*     background: green; */
+  }
+  
 .box1 {
     width: 50%;
     height: fit-content;
