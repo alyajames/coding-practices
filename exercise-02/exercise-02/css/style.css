@@ -33,7 +33,7 @@
 }
 
 .box2 {
-    width: 45%;
+    width: 50%;
     height: fit-content;
     margin: 40px;
     padding: 80px;
@@ -46,7 +46,7 @@
 
 .box3 {
     display: flex;
-    width: 45%;
+    width: 50%;
     height: fit-content;
     margin: 40px;
     padding: 60px;
